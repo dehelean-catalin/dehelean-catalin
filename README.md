@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehelean-catalin)](https://github.com/dehelean-catalin/github-readme-stats)
+
 <!--
 **dehelean-catalin/dehelean-catalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
